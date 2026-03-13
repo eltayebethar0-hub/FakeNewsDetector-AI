@@ -1,0 +1,23 @@
+CONTRACT DETAILS
+================
+Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+Network: Remix VM (Ethereum Compatible)
+Deployed by: ETHAR
+Deployment Date: March 13, 2026
+
+TEST TRANSACTION
+================
+Input: "aliens landed on earth" → "FAKE"
+Transaction Hash: 0xb817d25edd9cde5044d2e2ef05913b7c871786fdf363def45b2552929a76980c0
+Block Number: 6
+Status: SUCCESS
+
+VERIFICATION
+============
+getVerification(0) → "test123" = "REAL"
+getVerification(1) → "aliens landed on earth" = "FAKE"
+Total Verifications: 2
+
+FOR ANGGI
+=========
+Use this address in blockchain.js: 0xd9145CCE52D386f254917e481eB44e9943F39138
